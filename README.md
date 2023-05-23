@@ -1,1 +1,1 @@
-# Latihan3-Sequalize
+# Latihan3-Sequelize
